@@ -1,4 +1,4 @@
-# java+jsp的图书商城管理系统
+# Spring+SpringMVC+Mybatis的图书商城管理系统
 
 有问题，或者不会调试运行的 , 可以添加微信：xzxj0206
 
